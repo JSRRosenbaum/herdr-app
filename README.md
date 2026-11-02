@@ -1,5 +1,10 @@
 # Herdr — Rowan multiwindow fork
 
+> **Retired — consolidated into [Grove Sprig](https://github.com/JSRRosenbaum/grove-sprig).**
+> Native app source and customizations now live together on Sprig's `main`.
+> This repository is retained as read-only history. Use Sprig for current
+> installation instructions, issues and changes; the text below is historical.
+
 Herdr is a desktop app for terminals and coding agents. Keep work in spaces, see which agents need you, and leave terminals running when you close the window.
 
 This is an **unofficial fork** of [herdrdev/herdr-app](https://github.com/herdrdev/herdr-app),
